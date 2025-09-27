@@ -54,13 +54,13 @@ Die Tage und Nächte verschwammen zu einem einzigen, endlosen Moment aus blauem 
 
 Es war ein schleichender Weg ins Nichts. Am Anfang voller Freude und Entdeckung – wie ein Kind, das zum ersten Mal Süßigkeiten probiert. Dann voller Gewohnheit – wie ein Erwachsener, der jeden Morgen denselben Kaffee trinkt, ohne ihn zu schmecken. Und schließlich voller Leere – wie ein Brunnen, der ausgetrocknet ist, aber aus dem man trotzdem zu trinken versucht.
 
-Die Farben der Erde, die ihn einst so begeistert hatten – das Grün der Wiesen, das Blau des Himmels, das Gold der Sonnenuntergänge –, wurden grau wie alter Asche. Nicht, weil sie ihre Schönheit verloren hätten, sondern weil seine Augen verlernt hatten, sie zu sehen. Sie waren zu sehr daran gewöhnt, auf künstliche Farben zu starren, auf die grellen Töne der Bildschirme, die niemals so sanft waren wie das echte Licht der Sonne.
+Die Farben der Erde, die ihn einst so begeistert hatten – das Grün der Wiesen, das Blau des Himmels, das Gold der Sonnenuntergänge –, wurden grau wie alte Asche. Nicht, weil sie ihre Schönheit verloren hätten, sondern weil seine Augen verlernt hatten, sie zu sehen. Sie waren zu sehr daran gewöhnt, auf künstliche Farben zu starren, auf die grellen Töne der Bildschirme, die niemals so sanft waren wie das echte Licht der Sonne.
 
 Er lachte noch immer, aber es war ein Lachen ohne Seele – hohl wie das Echo in einer leeren Kirche. Er lachte über Videos, die andere lustig fanden, über Witze, die er nicht verstand, über Situationen, die ihn innerlich kalt ließen. Sein Lachen war zu einer Gewohnheit geworden, zu einem Reflex, wie das Blinzeln oder das Atmen. Es bedeutete nichts mehr.
 
 Er war ständig unter Menschen – in den Bars, in den Cafés, auf den Straßen, in den virtuellen Welten seiner Apps. Tausende von Gesichtern umgaben ihn, Millionen von Stimmen redeten auf ihn ein. Und doch fühlte er sich einsamer als je zuvor – einsamer als auf seinem kleinen Asteroiden, wo nur seine Rose ihm Gesellschaft geleistet hatte. Denn Einsamkeit unter Menschen ist die schlimmste Art der Einsamkeit. Sie ist wie Durst in einem Meer aus Salzwasser – überall ist das, was man braucht, aber nichts davon kann den Durst stillen.
 
-![Der dunkelste Punkt](illustrations/optimized/04.png)
+![Der dunkelste Punkt](illustrations/optimized/05.png)
 *Abb. 4: Der kleine Prinz in der Dunkelheit, nur vom Handy beleuchtet*
 
 ## Der dunkelste Punkt
@@ -76,13 +76,13 @@ Die Erinnerung an den König auf dem ersten Asteroiden kam ihm in den Sinn – j
 
 Dann brach etwas in ihm. Wie ein Damm, der dem Druck der Fluten nicht mehr standhält, gaben seine Abwehrmechanismen nach. Er weinte – zum ersten Mal seit Wochen, seit Monaten. Die Tränen kamen wie ein Sturzbach, heiß und salzig, und sie brannten auf seinen Wangen wie Säure. Aber sie reinigten auch, spülten den Schmutz der Tage fort, die Lügen, die er sich selbst erzählt hatte, die Masken, die er getragen hatte.
 
-Und während er weinte – wirklich weinte, mit seinem ganzen Körper, mit seiner ganzen Seele –, geschah etwas Wundersames. Durch den Schleier der Tränen hindurch erinnerte er sich an seine Rose. Nicht an das verblasste Bild, das die letzten Monate überschattet hatte, sondern an sie selbst: An ihr zartes Lächeln am frühen Morgen, wenn die ersten Sonnenstrahlen ihren Asteroiden berührten. An ihre vier stolzen Dornen, die sie wie kleine Schwerter trug. An ihre Eitelkeit, die ihn manchmal genervt, aber auch gerührt hatte. An ihre verletzlichen Momente, wenn sie Angst vor dem Wind hatte und er sie mit dem Wandschirm schützte.
+Und während er weinte – wirklich weinte, mit seinem ganzen Körper, mit seiner ganzen Seele –, geschah etwas Wundersames. Durch den Schleier der Tränen hindurch erinnerte er sich an seine Rose. Nicht an das verblasste Bild, das die letzten Monate überschattet hatte, sondern an sie selbst: An ihr zartes Lächeln am frühen Morgen, wenn die ersten Sonnenstrahlen ihren Asteroiden berührten. An ihre vier stolzen Dornen, die sie wie kleine Schwerter trug. An ihre Eitelkeit, die ihn manchmal genervt, aber auch gerührt hatte. An ihre verletzlichen Momente, wenn sie Angst vor dem Wind hatte und er sie mit dem Windschirm schützte.
 
 „Man ist für immer verantwortlich für das, was man sich vertraut gemacht hat", hörte er die Stimme des Fuchses wie aus weiter Ferne. Und plötzlich verstand er: Er hatte sich nicht nur seine Rose vertraut gemacht, sondern auch sich selbst. Und für diesen kleinen Prinz, der er einmal gewesen war, trug er Verantwortung. Er hatte ihn im Stich gelassen, hatte zugelassen, dass er sich in den Schatten der Erde verlor.
 
 Die Tränen flossen noch immer, aber sie waren nicht mehr nur Tränen der Verzweiflung. Sie waren auch Tränen der Erkenntnis, der Reue – und ganz zart, wie ein erster Sonnenstrahl nach einem langen Winter, auch Tränen der Hoffnung.
 
-![Das Wiederfinden](illustrations/optimized/05.png)
+![Das Wiederfinden](illustrations/optimized/06.png)
 *Abb. 5: Der kleine Prinz blickt wieder zu den Sternen auf*
 
 ## Das Wiederfinden
@@ -112,7 +112,7 @@ Schritt für Schritt, Tag für Tag, begann er das Vertrauen zurückzugewinnen: i
 
 Und langsam, ganz langsam, begann er wieder zu verstehen, was der Fuchs gemeint hatte: „Man sieht nur mit dem Herzen gut." Sein Herz, das so lange betäubt gewesen war, begann wieder zu schlagen – nicht nur zu pumpen, sondern zu fühlen, zu lieben, zu hoffen.
 
-![Ein neuer Blick](illustrations/optimized/06.png)
+![Ein neuer Blick](illustrations/optimized/07.png)
 *Abb. 6: Der kleine Prinz mit neuem Verständnis für die Welt*
 
 ## Ein neuer Blick
