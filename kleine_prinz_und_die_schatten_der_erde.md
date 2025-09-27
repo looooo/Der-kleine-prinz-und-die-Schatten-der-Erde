@@ -1,7 +1,6 @@
 # Der kleine Prinz und die Schatten der Erde
 
-![Die ersten Schritte auf der Erde](illustrations/optimized/01.png)
-*Abb. 1: Der kleine Prinz entdeckt die Erde und die Handys*
+![Die ersten Schritte auf der Erde](illustrations/png/01.png){width=400px}
 
 ## Die ersten Schritte auf der Erde  
 Als der kleine Prinz zum zweiten Mal die Erde betrat, war er voller Freude und Neugier. Er erinnerte sich noch gut an die Rose, die er auf seinem Asteroiden B-612 zurückgelassen hatte – an ihre vier Dornen, ihre Eitelkeit und ihre zärtlichen Worte. Er dachte an den Fuchs, der ihm das Geheimnis der Freundschaft gelehrt hatte: „Man sieht nur mit dem Herzen gut. Das Wesentliche ist für die Augen unsichtbar." Und er erinnerte sich an den Piloten in der Wüste, der ihm das Schaf gezeichnet hatte und der verstanden hatte, dass Erwachsene oft das Wichtigste übersehen. Dieses Mal wollte er länger auf der Erde bleiben, um ihre Geheimnisse zu ergründen.
@@ -16,8 +15,7 @@ Die Menschen konnten über unzählige Kanäle miteinander sprechen: durch geschr
 
 „Es ist, als hätte jeder Mensch seine eigene kleine Welt in der Tasche", dachte der kleine Prinz staunend. Aus Neugier probierte er eines dieser Wundergeräte aus – und war sofort gefangen in seinem Bann.
 
-![Das süße Gift der Gewohnheit](illustrations/optimized/02.png)
-*Abb. 2: Der kleine Prinz im bläulichen Licht des Handys*
+![Das süße Gift der Gewohnheit](illustrations/png/02.png){width=400px}
 
 ## Das süße Gift der Gewohnheit
 Zunächst war es wie ein Spiel – das süßeste, das der kleine Prinz je gespielt hatte. Seine ersten Nachrichten wurden mit kleinen Herzchen belohnt, und jedes Mal, wenn das Gerät in seiner Hand aufleuchtete, durchströmte ihn ein warmes Gefühl, als würde die Sonne direkt in sein Herz scheinen. „Wie wunderbar", dachte er, „so viele Menschen mögen mich!" Er begann, Bilder von Sonnenuntergängen zu teilen, wie er es einst auf seinem Asteroiden getan hatte, und erhielt dafür Hunderte von Daumen nach oben. Es war berauschender als der schönste Sonnenaufgang.
@@ -40,8 +38,7 @@ Wo er früher still unter einem Baum gesessen und die Welt betrachtet hatte – 
 
 Die Sterne, die ihn einst geführt hatten wie treue Freunde, traten in den Hintergrund. Wenn er überhaupt noch nach oben blickte, sah er nur das Licht der Straßenlaternen, das die Sterne überstrahlt. „Sie sind noch da", sagte er sich manchmal. „Ich schaue nur gerade nicht hin." Aber tief in seinem Herzen wusste er: Er hatte vergessen, wie man richtig hinschaut.
 
-![Das Abgleiten](illustrations/optimized/03.png)
-*Abb. 3: Der kleine Prinz verliert sich zwischen den Menschen*
+![Das Abgleiten](illustrations/png/03.png){width=400px}
 
 ## Das Abgleiten
 Die Menschen bemerkten seine Müdigkeit nicht. Sie waren zu sehr mit sich selbst beschäftigt – jeder gefangen in seinem eigenen leuchtenden Rechteck, jeder umgeben von unsichtbaren Mauern aus Licht und Klang. In den Cafés saßen sie nebeneinander wie Fremde, die zufällig denselben Ort gewählt hatten. Ihre Finger tanzten über die Bildschirme, aber ihre Herzen blieben stumm. Der kleine Prinz aber fühlte, wie er sich selbst verlor – nicht plötzlich, wie ein Stern, der vom Himmel fällt, sondern langsam, wie Sand, der durch die Finger rinnt.
@@ -60,8 +57,7 @@ Er lachte noch immer, aber es war ein Lachen ohne Seele – hohl wie das Echo in
 
 Er war ständig unter Menschen – in den Bars, in den Cafés, auf den Straßen, in den virtuellen Welten seiner Apps. Tausende von Gesichtern umgaben ihn, Millionen von Stimmen redeten auf ihn ein. Und doch fühlte er sich einsamer als je zuvor – einsamer als auf seinem kleinen Asteroiden, wo nur seine Rose ihm Gesellschaft geleistet hatte. Denn Einsamkeit unter Menschen ist die schlimmste Art der Einsamkeit. Sie ist wie Durst in einem Meer aus Salzwasser – überall ist das, was man braucht, aber nichts davon kann den Durst stillen.
 
-![Der dunkelste Punkt](illustrations/optimized/05.png)
-*Abb. 4: Der kleine Prinz in der Dunkelheit, nur vom Handy beleuchtet*
+![Der dunkelste Punkt](illustrations/png/04.png){width=400px}
 
 ## Der dunkelste Punkt
 Es war drei Uhr morgens, als der kleine Prinz allein in einem fremden Zimmer saß, das nur vom kalten, bläulichen Licht seines Handys erhellt wurde. Die Wände schienen näher zu rücken mit jeder Minute, die verstrich. Draußen schlief die Stadt, aber er konnte nicht schlafen – hatte seit Tagen nicht richtig geschlafen. Das Glas neben ihm war leer, wie schon das dritte oder vierte an diesem Abend. Der Akku seines Geräts zeigte nur noch einen roten Balken – fast ebenso leer wie er selbst.
@@ -82,8 +78,7 @@ Und während er weinte – wirklich weinte, mit seinem ganzen Körper, mit seine
 
 Die Tränen flossen noch immer, aber sie waren nicht mehr nur Tränen der Verzweiflung. Sie waren auch Tränen der Erkenntnis, der Reue – und ganz zart, wie ein erster Sonnenstrahl nach einem langen Winter, auch Tränen der Hoffnung.
 
-![Das Wiederfinden](illustrations/optimized/06.png)
-*Abb. 5: Der kleine Prinz blickt wieder zu den Sternen auf*
+![Das Wiederfinden](illustrations/png/05.png){width=400px}
 
 ## Das Wiederfinden
 Die Erinnerung war wie ein zarter Keim, der durch den gefrorenen Boden der Verzweiflung brach. Mit zitternden Händen – Händen, die so lange nur Glas und Bildschirm berührt hatten – legte der kleine Prinz das Handy zur Seite. Es war schwerer, als er gedacht hatte. Das Gerät schien an seiner Handfläche zu kleben, als wäre es Teil von ihm geworden. Aber er tat es. Er schob auch das leere Glas fort, dessen Boden noch die letzten Tropfen der Betäubung enthielt.
@@ -112,8 +107,7 @@ Schritt für Schritt, Tag für Tag, begann er das Vertrauen zurückzugewinnen: i
 
 Und langsam, ganz langsam, begann er wieder zu verstehen, was der Fuchs gemeint hatte: „Man sieht nur mit dem Herzen gut." Sein Herz, das so lange betäubt gewesen war, begann wieder zu schlagen – nicht nur zu pumpen, sondern zu fühlen, zu lieben, zu hoffen.
 
-![Ein neuer Blick](illustrations/optimized/07.png)
-*Abb. 6: Der kleine Prinz mit neuem Verständnis für die Welt*
+![Ein neuer Blick](illustrations/png/06.png){width=400px}
 
 ## Ein neuer Blick
 Der kleine Prinz wanderte nun mit anderen Augen durch die Welt – Augen, die gelernt hatten, sowohl die Schatten als auch das Licht zu sehen. In den Gesichtern der Menschen erkannte er nicht mehr nur die perfekten Masken, die sie in ihren sozialen Netzwerken trugen, sondern ihre wahren Geschichten: die Falten, die von Sorgen und Lachen erzählten, die müden Augen, die nach echter Verbindung suchten, die zarten Gesten der Zuneigung zwischen Liebenden, Freunden, Familien.
