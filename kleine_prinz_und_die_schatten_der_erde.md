@@ -81,7 +81,11 @@ Die Tränen flossen noch immer, aber sie waren nicht mehr nur Tränen der Verzwe
 ![Das Wiederfinden](illustrations/png/05.png){width=400px}
 
 ## Das Wiederfinden
-Die Erinnerung war wie ein zarter Keim, der durch den gefrorenen Boden der Verzweiflung brach. Mit zitternden Händen – Händen, die so lange nur Glas und Bildschirm berührt hatten – legte der kleine Prinz das Handy zur Seite. Es war schwerer, als er gedacht hatte. Das Gerät schien an seiner Handfläche zu kleben, als wäre es Teil von ihm geworden. Aber er tat es. Er schob auch das leere Glas fort, dessen Boden noch die letzten Tropfen der Betäubung enthielt.
+Die Erinnerung war wie ein zarter Keim, der durch den gefrorenen Boden der Verzweiflung brach. Mit zitternden Händen – Händen, die so lange nur Glas und Bildschirm berührt hatten – legte der kleine Prinz das Handy zur Seite. Es war schwerer, als er gedacht hatte. Das Gerät schien an seiner Handfläche zu kleben, als wäre es Teil von ihm geworden. 
+
+„Nur für eine Minute", flüsterte eine vertraute Stimme in seinem Kopf. „Nur mal schnell schauen, ob jemand geschrieben hat." Aber der kleine Prinz erkannte diese Stimme nun als das, was sie war: die Stimme der Sucht, die ihn so lange gefangen gehalten hatte. „Nein", sagte er laut in die Stille hinein. „Nicht heute. Nicht jetzt." Es war das erste Mal, dass er diesem inneren Drängen widersprach – und es fühlte sich an wie ein kleiner Sieg.
+
+Er schob auch das leere Glas fort, dessen Boden noch die letzten Tropfen der Betäubung enthielt. Dann tat er etwas, was er in den letzten Monaten vergessen hatte: Er atmete. Wirklich atmete. Tief ein, langsam aus. So wie die Rose es jeden Morgen getan hatte, wenn sie sich im ersten Sonnenlicht entfaltete.
 
 Dann stand er auf – zum ersten Mal seit Stunden, vielleicht seit Tagen. Seine Beine waren schwach, seine Knie zitterten wie die eines neugeborenen Fohlens. Aber er ging. Schritt für Schritt, durch die Tür, die Treppen hinunter, hinaus in die Nacht. Die kühle Luft schlug ihm entgegen wie eine Ohrfeige, aber eine heilsame. Sie roch nach Regen und frischer Erde, nach Leben – so anders als die abgestandene Luft des Zimmers, die nach Alkohol und verlorenen Träumen gerochen hatte.
 
@@ -89,7 +93,11 @@ Dann stand er auf – zum ersten Mal seit Stunden, vielleicht seit Tagen. Seine 
 
 Er weinte wieder, aber diesmal waren es andere Tränen. Tränen der Erleichterung, der Dankbarkeit. Er setzte sich auf eine Bank im Park und blieb dort bis zum Morgengrauen, nur er und die Sterne. Zum ersten Mal seit Monaten hörte er wieder das Rauschen des Windes in den Blättern, das Zirpen der Grillen, das leise Plätschern eines Brunnens. Die Welt war noch da. Sie hatte auf ihn gewartet.
 
+In dieser Nacht lernte er seine erste wichtige Lektion: „Wenn das Verlangen kommt", flüsterte er zu den Sternen, „dann gehe ich hinaus. Ich schaue nach oben, nicht nach unten auf den Bildschirm." Es war ein einfacher Plan, aber wie alle wahren Weisheiten war er in seiner Einfachheit mächtig. Die Sterne würden seine Anker sein – immer da, immer geduldig, immer bereit, ihn daran zu erinnern, wer er wirklich war.
+
 Als die ersten Sonnenstrahlen den Horizont berührten, erinnerte er sich an seine Rose und wie sie jeden Morgen im Licht erstrahlte. „Ich möchte schön sein, wenn die Sonne aufgeht", hatte sie gesagt, während sie ihre Blütenblätter sanft im Morgenwind bewegte. Und plötzlich verstand er: Auch er wollte schön sein für diesen neuen Tag. Nicht äußerlich schön – das war vergänglich –, sondern innerlich rein.
+
+„Ich werde mir jeden Morgen ein Ritual schaffen", beschloss er, während die Sonne höher stieg. „Wie die Rose, die sich jeden Tag neu entfaltet." Er würde jeden Morgen hinausgehen, bevor er auch nur an das Handy dachte. Er würde die Sonne begrüßen, drei tiefe Atemzüge nehmen und sich fragen: „Was ist heute wirklich wichtig?" Es war seine Art, den Tag zu zähmen – so wie er einst den Fuchs gezähmt hatte, durch Geduld und tägliche Wiederholung.
 
 Am nächsten Tag, als die Stadt erwachte und die Menschen aus ihren Häusern strömten, geschah etwas Wundersames. Der kleine Prinz sah einen älteren Mann auf einer Parkbank sitzen, der genauso verloren aussah, wie er sich gefühlt hatte. Ohne zu zögern – und ohne sein Handy zu zücken, um ein Foto zu machen oder jemandem zu schreiben –, ging er zu ihm hinüber.
 
@@ -103,7 +111,19 @@ Und im Gesicht dieses Mannes erkannte er etwas Vertrautes: sich selbst. Er sah d
 
 In diesem Moment verstand der kleine Prinz eine wichtige Wahrheit: Heilung geschieht nicht allein. Sie geschieht in der Begegnung mit anderen, im Teilen der Schmerzen und der Hoffnungen. Jeder Mensch trägt einen Teil des Puzzles in sich, das uns zu uns selbst zurückführt.
 
-Schritt für Schritt, Tag für Tag, begann er das Vertrauen zurückzugewinnen: in die Erde, in die Menschen, in sich selbst. Er lernte wieder, kleine Wunder zu sehen – einen Käfer, der über den Gehweg krabbelte, ein Kind, das seinem Vater die Hand reichte, eine Blume, die durch einen Riss im Asphalt wuchs. Er lernte, dass man sich verlieren kann – tief und vollständig –, und doch wiederfinden. Dass in jeder echten Begegnung ein Spiegel liegt, der uns zeigt, wer wir wirklich sind, jenseits aller Masken und Ablenkungen.
+„Ich brauche Menschen", erkannte er. „Echte Menschen, nicht die Gesichter auf dem Bildschirm." Er beschloss, jeden Tag mindestens einem Menschen wirklich zu begegnen – nicht virtuell, sondern leibhaftig. Ein Lächeln zu schenken, ein Gespräch zu führen, zuzuhören. Es war wie das Gießen einer Blume: Regelmäßig, achtsam, mit der Gewissheit, dass etwas Schönes daraus wachsen würde.
+
+Schritt für Schritt, Tag für Tag, begann er das Vertrauen zurückzugewinnen: in die Erde, in die Menschen, in sich selbst. Aber es war nicht einfach. Manchmal, besonders in den ersten Wochen, überfiel ihn das Verlangen wie ein hungriger Wolf. Dann griff seine Hand automatisch nach dem Handy, suchte nach dem Glas. In solchen Momenten erinnerte er sich an die Worte des Fuchses: „Man muss sehr geduldig sein."
+
+Er entwickelte kleine Tricks, wie ein Zauberer, der seine eigenen Illusionen durchschaut. Wenn das Verlangen kam, zählte er bis zehn – langsam, wie die Sekunden eines Sonnenuntergangs. Dann ging er zum Fenster und suchte am Himmel nach seinem Stern. „Nur noch zehn Minuten", sagte er sich. „Dann schaue ich wieder." Meist vergaß er nach zehn Minuten, warum er hatte schauen wollen.
+
+Er lernte wieder, kleine Wunder zu sehen – einen Käfer, der über den Gehweg krabbelte, ein Kind, das seinem Vater die Hand reichte, eine Blume, die durch einen Riss im Asphalt wuchs. Jedes Mal, wenn er solche Momente bewusst wahrnahm, wurde das Verlangen nach künstlichen Reizen schwächer. Es war, als würde er seine Seele mit echter Nahrung füttern, sodass sie nicht mehr nach Süßigkeiten hungerte.
+
+Er lernte, dass man sich verlieren kann – tief und vollständig –, und doch wiederfinden. Dass in jeder echten Begegnung ein Spiegel liegt, der uns zeigt, wer wir wirklich sind, jenseits aller Masken und Ablenkungen.
+
+Jeden Abend, bevor er zu Bett ging, schrieb er drei Dinge auf, für die er dankbar war. Nicht auf das Handy – nein, mit einem echten Stift auf echtes Papier, so wie er einst seine Zeichnungen gemacht hatte. „Heute: Die Katze, die mich angelächelt hat. Das Gespräch mit der Bäckerin. Der Regenbogen nach dem Regen." Es waren kleine Dinge, aber sie leuchteten in seinem Herzen wie Sterne am Himmel.
+
+Manchmal gab es Rückfälle. Tage, an denen er doch wieder stundenlang auf das Handy starrte oder ein Glas zu viel trank. Früher hätte er sich dafür gehasst, hätte aufgegeben. Jetzt aber erinnerte er sich an den Laternenanzünder auf seinem fünften Planeten, der jeden Abend seine Laterne anzündete, auch wenn der Wind sie wieder ausblies. „Morgen zünde ich sie wieder an", hatte der Mann gesagt. Und so machte es auch der kleine Prinz: Am nächsten Morgen begann er von neuem, ohne sich zu verurteilen.
 
 Und langsam, ganz langsam, begann er wieder zu verstehen, was der Fuchs gemeint hatte: „Man sieht nur mit dem Herzen gut." Sein Herz, das so lange betäubt gewesen war, begann wieder zu schlagen – nicht nur zu pumpen, sondern zu fühlen, zu lieben, zu hoffen.
 
