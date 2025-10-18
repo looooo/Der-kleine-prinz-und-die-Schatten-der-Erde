@@ -1,0 +1,43 @@
+# GitHub Pages Configuration
+title: "Der kleine Prinz und die Schatten der Erde"
+description: "Eine moderne Geschichte über Verlieren und Wiederfinden in der digitalen Welt"
+author: "Eine zeitgemäße Adaption"
+lang: de
+
+# Theme
+theme: minima
+
+# GitHub Pages settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO
+url: "https://lo.github.io"
+baseurl: "/sucht"
+
+# Social
+social:
+  name: "Der kleine Prinz und die Schatten der Erde"
+  links: []
+
+# Exclude files
+exclude:
+  - scripts/
+  - "*.py"
+  - "*.pdf"
+  - "*.epub"
+  - README.md
+
+# Include files
+include:
+  - _redirects
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+
+# Sass settings
+sass:
+  style: compressed
